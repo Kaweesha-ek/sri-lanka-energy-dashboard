@@ -1,0 +1,835 @@
+country_name,country_iso3,year,indicator_name,indicator_code,value,indicator_category
+Sri Lanka,LKA,2021,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,1.67,Energy Efficiency
+Sri Lanka,LKA,2020,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,1.66,Energy Efficiency
+Sri Lanka,LKA,2019,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,1.61,Energy Efficiency
+Sri Lanka,LKA,2018,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,1.55,Energy Efficiency
+Sri Lanka,LKA,2017,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,1.59,Energy Efficiency
+Sri Lanka,LKA,2016,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,1.76,Energy Efficiency
+Sri Lanka,LKA,2015,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,1.69,Energy Efficiency
+Sri Lanka,LKA,2014,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,1.69,Energy Efficiency
+Sri Lanka,LKA,2013,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,1.67,Energy Efficiency
+Sri Lanka,LKA,2012,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,1.89,Energy Efficiency
+Sri Lanka,LKA,2011,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.0,Energy Efficiency
+Sri Lanka,LKA,2010,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.14,Energy Efficiency
+Sri Lanka,LKA,2009,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.16,Energy Efficiency
+Sri Lanka,LKA,2008,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.21,Energy Efficiency
+Sri Lanka,LKA,2007,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.4,Energy Efficiency
+Sri Lanka,LKA,2006,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.52,Energy Efficiency
+Sri Lanka,LKA,2005,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.68,Energy Efficiency
+Sri Lanka,LKA,2004,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.79,Energy Efficiency
+Sri Lanka,LKA,2003,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.9,Energy Efficiency
+Sri Lanka,LKA,2002,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.9,Energy Efficiency
+Sri Lanka,LKA,2001,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.96,Energy Efficiency
+Sri Lanka,LKA,2000,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.0,Energy Efficiency
+Sri Lanka,LKA,2022,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.0,Electricity Access
+Sri Lanka,LKA,2021,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.0,Electricity Access
+Sri Lanka,LKA,2020,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.0,Electricity Access
+Sri Lanka,LKA,2019,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.997,Electricity Access
+Sri Lanka,LKA,2018,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.995,Electricity Access
+Sri Lanka,LKA,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.9690000000000001,Electricity Access
+Sri Lanka,LKA,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.972,Electricity Access
+Sri Lanka,LKA,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.932,Electricity Access
+Sri Lanka,LKA,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.9129999999999999,Electricity Access
+Sri Lanka,LKA,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.885,Electricity Access
+Sri Lanka,LKA,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.847,Electricity Access
+Sri Lanka,LKA,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.857,Electricity Access
+Sri Lanka,LKA,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.83,Electricity Access
+Sri Lanka,LKA,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.852,Electricity Access
+Sri Lanka,LKA,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.8029999999999999,Electricity Access
+Sri Lanka,LKA,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.7659999999999999,Electricity Access
+Sri Lanka,LKA,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.7929999999999999,Electricity Access
+Sri Lanka,LKA,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.75,Electricity Access
+Sri Lanka,LKA,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.732,Electricity Access
+Sri Lanka,LKA,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.715,Electricity Access
+Sri Lanka,LKA,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.7829999999999999,Electricity Access
+Sri Lanka,LKA,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.5870000000000001,Electricity Access
+Sri Lanka,LKA,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.662,Electricity Access
+Sri Lanka,LKA,2022,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,1.0,Electricity Access
+Sri Lanka,LKA,2021,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,1.0,Electricity Access
+Sri Lanka,LKA,2020,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,1.0,Electricity Access
+Sri Lanka,LKA,2019,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,1.0,Electricity Access
+Sri Lanka,LKA,2018,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,1.0,Electricity Access
+Sri Lanka,LKA,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,1.0,Electricity Access
+Sri Lanka,LKA,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.99,Electricity Access
+Sri Lanka,LKA,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.996,Electricity Access
+Sri Lanka,LKA,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.988,Electricity Access
+Sri Lanka,LKA,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.98,Electricity Access
+Sri Lanka,LKA,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.973,Electricity Access
+Sri Lanka,LKA,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.968,Electricity Access
+Sri Lanka,LKA,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.956,Electricity Access
+Sri Lanka,LKA,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.956,Electricity Access
+Sri Lanka,LKA,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.9420000000000001,Electricity Access
+Sri Lanka,LKA,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.953,Electricity Access
+Sri Lanka,LKA,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.9440000000000001,Electricity Access
+Sri Lanka,LKA,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.92,Electricity Access
+Sri Lanka,LKA,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.9129999999999999,Electricity Access
+Sri Lanka,LKA,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.9059999999999999,Electricity Access
+Sri Lanka,LKA,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.9129999999999999,Electricity Access
+Sri Lanka,LKA,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.853,Electricity Access
+Sri Lanka,LKA,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,0.887,Electricity Access
+Sri Lanka,LKA,2022,Access to electricity (% of population),EG.ELC.ACCS.ZS,1.0,Electricity Access
+Sri Lanka,LKA,2021,Access to electricity (% of population),EG.ELC.ACCS.ZS,1.0,Electricity Access
+Sri Lanka,LKA,2020,Access to electricity (% of population),EG.ELC.ACCS.ZS,1.0,Electricity Access
+Sri Lanka,LKA,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.998,Electricity Access
+Sri Lanka,LKA,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.996,Electricity Access
+Sri Lanka,LKA,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.975,Electricity Access
+Sri Lanka,LKA,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.975,Electricity Access
+Sri Lanka,LKA,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.943,Electricity Access
+Sri Lanka,LKA,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.927,Electricity Access
+Sri Lanka,LKA,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.902,Electricity Access
+Sri Lanka,LKA,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.87,Electricity Access
+Sri Lanka,LKA,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.878,Electricity Access
+Sri Lanka,LKA,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.853,Electricity Access
+Sri Lanka,LKA,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.871,Electricity Access
+Sri Lanka,LKA,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.8290000000000001,Electricity Access
+Sri Lanka,LKA,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.8,Electricity Access
+Sri Lanka,LKA,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.821,Electricity Access
+Sri Lanka,LKA,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.7809999999999999,Electricity Access
+Sri Lanka,LKA,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.765,Electricity Access
+Sri Lanka,LKA,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.75,Electricity Access
+Sri Lanka,LKA,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.807,Electricity Access
+Sri Lanka,LKA,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.636,Electricity Access
+Sri Lanka,LKA,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.703,Electricity Access
+Sri Lanka,LKA,2021,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.488,Renewable Energy
+Sri Lanka,LKA,2020,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.493,Renewable Energy
+Sri Lanka,LKA,2019,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.461,Renewable Energy
+Sri Lanka,LKA,2018,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.479,Renewable Energy
+Sri Lanka,LKA,2017,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.45799999999999996,Renewable Energy
+Sri Lanka,LKA,2016,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.451,Renewable Energy
+Sri Lanka,LKA,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.513,Renewable Energy
+Sri Lanka,LKA,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.542,Renewable Energy
+Sri Lanka,LKA,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.569,Renewable Energy
+Sri Lanka,LKA,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.529,Renewable Energy
+Sri Lanka,LKA,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.564,Renewable Energy
+Sri Lanka,LKA,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.619,Renewable Energy
+Sri Lanka,LKA,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.635,Renewable Energy
+Sri Lanka,LKA,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.616,Renewable Energy
+Sri Lanka,LKA,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.602,Renewable Energy
+Sri Lanka,LKA,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.622,Renewable Energy
+Sri Lanka,LKA,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.601,Renewable Energy
+Sri Lanka,LKA,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.616,Renewable Energy
+Sri Lanka,LKA,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.613,Renewable Energy
+Sri Lanka,LKA,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.621,Renewable Energy
+Sri Lanka,LKA,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.629,Renewable Energy
+Sri Lanka,LKA,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.642,Renewable Energy
+Sri Lanka,LKA,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.632,Renewable Energy
+Sri Lanka,LKA,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.642,Renewable Energy
+Sri Lanka,LKA,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.659,Renewable Energy
+Sri Lanka,LKA,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.644,Renewable Energy
+Sri Lanka,LKA,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.6990000000000001,Renewable Energy
+Sri Lanka,LKA,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.706,Renewable Energy
+Sri Lanka,LKA,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.742,Renewable Energy
+Sri Lanka,LKA,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.753,Renewable Energy
+Sri Lanka,LKA,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.78,Renewable Energy
+Sri Lanka,LKA,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.7809999999999999,Renewable Energy
+Sri Lanka,LKA,2011,Time to obtain an electrical connection (days),IC.ELC.DURS,42.4,Service Quality
+Sri Lanka,LKA,2019,Time required to get electricity (days),IC.ELC.TIME,100.0,Electricity Access
+Sri Lanka,LKA,2018,Time required to get electricity (days),IC.ELC.TIME,100.0,Electricity Access
+Sri Lanka,LKA,2017,Time required to get electricity (days),IC.ELC.TIME,100.0,Electricity Access
+Sri Lanka,LKA,2016,Time required to get electricity (days),IC.ELC.TIME,100.0,Electricity Access
+Sri Lanka,LKA,2015,Time required to get electricity (days),IC.ELC.TIME,100.0,Electricity Access
+Sri Lanka,LKA,2014,Time required to get electricity (days),IC.ELC.TIME,104.0,Electricity Access
+Sri Lanka,LKA,2013,Time required to get electricity (days),IC.ELC.TIME,104.0,Electricity Access
+Sri Lanka,LKA,2012,Time required to get electricity (days),IC.ELC.TIME,126.0,Electricity Access
+Sri Lanka,LKA,2011,Time required to get electricity (days),IC.ELC.TIME,126.0,Electricity Access
+Sri Lanka,LKA,2010,Time required to get electricity (days),IC.ELC.TIME,126.0,Electricity Access
+Sri Lanka,LKA,2009,Time required to get electricity (days),IC.ELC.TIME,126.0,Electricity Access
+Sri Lanka,LKA,2011,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,4.36e-07,Investments
+Sri Lanka,LKA,2011,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,0.03,Service Quality
+Sri Lanka,LKA,2023,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,8.32,Investments
+Sri Lanka,LKA,2014,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,13.585,Investments
+Sri Lanka,LKA,2012,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,168.2975,Investments
+Sri Lanka,LKA,2011,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,116.96,Investments
+Sri Lanka,LKA,2010,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,168.2975,Investments
+Sri Lanka,LKA,2009,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,41.7,Investments
+Sri Lanka,LKA,2008,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,45.65,Investments
+Sri Lanka,LKA,2007,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,46.0,Investments
+Sri Lanka,LKA,2006,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,1.0,Investments
+Sri Lanka,LKA,2005,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,64.1,Investments
+Sri Lanka,LKA,2004,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,80.8,Investments
+Sri Lanka,LKA,2003,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,20.78,Investments
+Sri Lanka,LKA,2002,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,40.75,Investments
+Sri Lanka,LKA,2001,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,136.5,Investments
+Sri Lanka,LKA,1999,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,77.3,Investments
+Sri Lanka,LKA,1997,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,16.0,Investments
+Sri Lanka,LKA,1996,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,63.0,Investments
+Sri Lanka,LKA,1995,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,21.7,Investments
+Sri Lanka,LKA,2021,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,2020,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,2019,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,2018,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,63549.1326711705,Mining
+Sri Lanka,LKA,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,95685.80464916775,Mining
+Sri Lanka,LKA,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,95685.80464916775,Mining
+Sri Lanka,LKA,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,95685.80464916775,Mining
+Sri Lanka,LKA,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,95685.80464916775,Mining
+Sri Lanka,LKA,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,95685.80464916775,Mining
+Sri Lanka,LKA,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,95685.80464916775,Mining
+Sri Lanka,LKA,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,95685.80464916775,Mining
+Sri Lanka,LKA,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,95685.80464916775,Mining
+Sri Lanka,LKA,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,95685.80464916775,Mining
+Sri Lanka,LKA,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,95685.80464916775,Mining
+Sri Lanka,LKA,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,95685.80464916775,Mining
+Sri Lanka,LKA,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,78688.725619866,Mining
+Sri Lanka,LKA,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3964.74883431229,Mining
+Sri Lanka,LKA,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,12477.4297039171,Mining
+Sri Lanka,LKA,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,18895.5564774318,Mining
+Sri Lanka,LKA,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,29849.3849224993,Mining
+Sri Lanka,LKA,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,19648.6117690399,Mining
+Sri Lanka,LKA,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0.0,Mining
+Sri Lanka,LKA,2021,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,2020,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,2019,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,2018,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,6.90032997160833e-05,Mining
+Sri Lanka,LKA,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0004707167193719,Mining
+Sri Lanka,LKA,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0006490107155546,Mining
+Sri Lanka,LKA,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0010295816539538751,Mining
+Sri Lanka,LKA,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0010295816539538751,Mining
+Sri Lanka,LKA,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0010295816539538751,Mining
+Sri Lanka,LKA,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0010295816539538751,Mining
+Sri Lanka,LKA,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0010295816539538751,Mining
+Sri Lanka,LKA,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0010295816539538751,Mining
+Sri Lanka,LKA,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0010295816539538751,Mining
+Sri Lanka,LKA,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0010295816539538751,Mining
+Sri Lanka,LKA,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0005860911472858,Mining
+Sri Lanka,LKA,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0002821314511055,Mining
+Sri Lanka,LKA,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,6.6596520798497e-05,Mining
+Sri Lanka,LKA,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0002426817223924,Mining
+Sri Lanka,LKA,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0003922046423181,Mining
+Sri Lanka,LKA,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0006796790392218,Mining
+Sri Lanka,LKA,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0004831050907961,Mining
+Sri Lanka,LKA,1979,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1978,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1977,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1976,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1975,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1974,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1973,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1972,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1971,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,1970,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0,Mining
+Sri Lanka,LKA,2021,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2020,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2019,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2018,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1979,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1978,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1977,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1976,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1975,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1974,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1973,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1972,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,1971,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0.0,Resource Rents
+Sri Lanka,LKA,2021,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2020,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2019,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2018,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1979,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1978,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1977,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1976,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1975,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1974,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1973,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1972,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,1971,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0,Resource Rents
+Sri Lanka,LKA,2021,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0557572590048974,Resource Rents
+Sri Lanka,LKA,2020,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0575737146408968,Resource Rents
+Sri Lanka,LKA,2019,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0492433506109834,Resource Rents
+Sri Lanka,LKA,2018,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0431648922725333,Resource Rents
+Sri Lanka,LKA,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0604939127931534,Resource Rents
+Sri Lanka,LKA,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0825046295769811,Resource Rents
+Sri Lanka,LKA,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0794620958912732,Resource Rents
+Sri Lanka,LKA,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0729844910801235,Resource Rents
+Sri Lanka,LKA,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0768941083396204,Resource Rents
+Sri Lanka,LKA,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.093921252280869,Resource Rents
+Sri Lanka,LKA,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.113286284326599,Resource Rents
+Sri Lanka,LKA,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.129407954914108,Resource Rents
+Sri Lanka,LKA,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.10810164342533,Resource Rents
+Sri Lanka,LKA,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.119248841893984,Resource Rents
+Sri Lanka,LKA,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.15346801984115,Resource Rents
+Sri Lanka,LKA,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.132781295314058,Resource Rents
+Sri Lanka,LKA,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.103075939815685,Resource Rents
+Sri Lanka,LKA,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.118886459503187,Resource Rents
+Sri Lanka,LKA,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.154092077410699,Resource Rents
+Sri Lanka,LKA,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.156161254288019,Resource Rents
+Sri Lanka,LKA,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.146444927836579,Resource Rents
+Sri Lanka,LKA,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.138427521077499,Resource Rents
+Sri Lanka,LKA,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.15447977826007,Resource Rents
+Sri Lanka,LKA,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.135270179354737,Resource Rents
+Sri Lanka,LKA,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.152156183602719,Resource Rents
+Sri Lanka,LKA,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.290259566597087,Resource Rents
+Sri Lanka,LKA,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.317325130197172,Resource Rents
+Sri Lanka,LKA,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.278789178720021,Resource Rents
+Sri Lanka,LKA,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.351919850072198,Resource Rents
+Sri Lanka,LKA,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.402081728073849,Resource Rents
+Sri Lanka,LKA,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.432070242880357,Resource Rents
+Sri Lanka,LKA,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.331612897654707,Resource Rents
+Sri Lanka,LKA,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.319368394996708,Resource Rents
+Sri Lanka,LKA,1988,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.325391008574792,Resource Rents
+Sri Lanka,LKA,1987,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.321962768313027,Resource Rents
+Sri Lanka,LKA,1986,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.357038961580214,Resource Rents
+Sri Lanka,LKA,1985,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.20683093645805,Resource Rents
+Sri Lanka,LKA,1984,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.294295113091622,Resource Rents
+Sri Lanka,LKA,1983,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.426606368327997,Resource Rents
+Sri Lanka,LKA,1982,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.625480843683666,Resource Rents
+Sri Lanka,LKA,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.45082553465263,Resource Rents
+Sri Lanka,LKA,1980,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.556424633119374,Resource Rents
+Sri Lanka,LKA,1979,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.549680879535844,Resource Rents
+Sri Lanka,LKA,1978,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.6802863767862917,Resource Rents
+Sri Lanka,LKA,1977,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.6802863767862917,Resource Rents
+Sri Lanka,LKA,1976,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.404635611543707,Resource Rents
+Sri Lanka,LKA,1975,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.562197115109867,Resource Rents
+Sri Lanka,LKA,1974,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.272557398986097,Resource Rents
+Sri Lanka,LKA,1973,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.287241746886971,Resource Rents
+Sri Lanka,LKA,1972,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.202284570419199,Resource Rents
+Sri Lanka,LKA,1971,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.213603862665556,Resource Rents
+Sri Lanka,LKA,2021,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2020,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2019,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2018,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.001790737403743,Mining
+Sri Lanka,LKA,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0017116929537371,Mining
+Sri Lanka,LKA,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0023590121476439,Mining
+Sri Lanka,LKA,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0038090077768292,Mining
+Sri Lanka,LKA,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0043645299455326,Mining
+Sri Lanka,LKA,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.004513302439134437,Mining
+Sri Lanka,LKA,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.004513302439134437,Mining
+Sri Lanka,LKA,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.004513302439134437,Mining
+Sri Lanka,LKA,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.004513302439134437,Mining
+Sri Lanka,LKA,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.004513302439134437,Mining
+Sri Lanka,LKA,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.004513302439134437,Mining
+Sri Lanka,LKA,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0024802988062235,Mining
+Sri Lanka,LKA,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0012442718661852,Mining
+Sri Lanka,LKA,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0002956911128218,Mining
+Sri Lanka,LKA,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0011131075725297,Mining
+Sri Lanka,LKA,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0018490716913861,Mining
+Sri Lanka,LKA,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0031742633064875,Mining
+Sri Lanka,LKA,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0022610054448155,Mining
+Sri Lanka,LKA,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2021,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2020,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2019,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2018,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1979,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1978,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1977,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1976,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1975,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1974,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1973,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1972,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1971,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2021,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2020,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2019,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2018,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1979,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1978,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1977,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1976,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1975,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1974,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1973,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1972,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,1971,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0,Mining
+Sri Lanka,LKA,2021,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0832444969793704,Mining
+Sri Lanka,LKA,2020,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0850400982115445,Mining
+Sri Lanka,LKA,2019,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0722571812304566,Mining
+Sri Lanka,LKA,2018,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.064834147164453,Mining
+Sri Lanka,LKA,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0888765377568958,Mining
+Sri Lanka,LKA,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.120808775080832,Mining
+Sri Lanka,LKA,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.116815682766825,Mining
+Sri Lanka,LKA,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.106716230120525,Mining
+Sri Lanka,LKA,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.111206626762233,Mining
+Sri Lanka,LKA,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.137234670569948,Mining
+Sri Lanka,LKA,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.161869001521806,Mining
+Sri Lanka,LKA,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.181247741101714,Mining
+Sri Lanka,LKA,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.154024920053947,Mining
+Sri Lanka,LKA,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.168491007991096,Mining
+Sri Lanka,LKA,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.196497793780255,Mining
+Sri Lanka,LKA,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.16417428202828,Mining
+Sri Lanka,LKA,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.124198914028397,Mining
+Sri Lanka,LKA,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.147494466742975,Mining
+Sri Lanka,LKA,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.196684504988527,Mining
+Sri Lanka,LKA,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.203787939938968,Mining
+Sri Lanka,LKA,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.196220474071304,Mining
+Sri Lanka,LKA,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.190956032913517,Mining
+Sri Lanka,LKA,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.214152119083607,Mining
+Sri Lanka,LKA,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.188090082261484,Mining
+Sri Lanka,LKA,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.211594304589763,Mining
+Sri Lanka,LKA,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.353077482876767,Mining
+Sri Lanka,LKA,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.387053556444352,Mining
+Sri Lanka,LKA,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.344406420288195,Mining
+Sri Lanka,LKA,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.442217811746733,Mining
+Sri Lanka,LKA,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.508323376361394,Mining
+Sri Lanka,LKA,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.541072206279577,Mining
+Sri Lanka,LKA,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.467031774164659,Mining
+Sri Lanka,LKA,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.449054392882218,Mining
+Sri Lanka,LKA,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.462214619069643,Mining
+Sri Lanka,LKA,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.458943840762112,Mining
+Sri Lanka,LKA,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.512449670512743,Mining
+Sri Lanka,LKA,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.297895482888966,Mining
+Sri Lanka,LKA,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.415370333932422,Mining
+Sri Lanka,LKA,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.618973339361637,Mining
+Sri Lanka,LKA,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.9186852978762305,Mining
+Sri Lanka,LKA,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.665314964531548,Mining
+Sri Lanka,LKA,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.836147126437549,Mining
+Sri Lanka,LKA,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.824141817580273,Mining
+Sri Lanka,LKA,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.9186852978762305,Mining
+Sri Lanka,LKA,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.9186852978762305,Mining
+Sri Lanka,LKA,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.531682871698104,Mining
+Sri Lanka,LKA,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.776306878827124,Mining
+Sri Lanka,LKA,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.384839956370907,Mining
+Sri Lanka,LKA,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.412492035623906,Mining
+Sri Lanka,LKA,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.293823821135509,Mining
+Sri Lanka,LKA,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.311770020850896,Mining
+Sri Lanka,LKA,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.349013656833095,Mining
+Sri Lanka,LKA,2023,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.8403143119353,Fuel Trade
+Sri Lanka,LKA,2022,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,22.701982216279,Fuel Trade
+Sri Lanka,LKA,2021,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.8165286428724,Fuel Trade
+Sri Lanka,LKA,2020,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.4223644106075,Fuel Trade
+Sri Lanka,LKA,2019,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.627446133209,Fuel Trade
+Sri Lanka,LKA,2017,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.0844302150633,Fuel Trade
+Sri Lanka,LKA,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.966960899183,Fuel Trade
+Sri Lanka,LKA,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.9868251864936,Fuel Trade
+Sri Lanka,LKA,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,22.849465397046,Fuel Trade
+Sri Lanka,LKA,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.486698807472,Fuel Trade
+Sri Lanka,LKA,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.4145747961846,Fuel Trade
+Sri Lanka,LKA,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.2331090803262,Fuel Trade
+Sri Lanka,LKA,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.7097534770111,Fuel Trade
+Sri Lanka,LKA,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.3897187044268,Fuel Trade
+Sri Lanka,LKA,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,22.9823013004175,Fuel Trade
+Sri Lanka,LKA,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.5450157431296,Fuel Trade
+Sri Lanka,LKA,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.6716438746334,Fuel Trade
+Sri Lanka,LKA,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.424966897748,Fuel Trade
+Sri Lanka,LKA,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.4497296320203,Fuel Trade
+Sri Lanka,LKA,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.3116377159496,Fuel Trade
+Sri Lanka,LKA,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.8434940353583,Fuel Trade
+Sri Lanka,LKA,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.33910501536337,Fuel Trade
+Sri Lanka,LKA,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.2471986557808,Fuel Trade
+Sri Lanka,LKA,1999,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.72493679637138,Fuel Trade
+Sri Lanka,LKA,1994,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.21646072500221,Fuel Trade
+Sri Lanka,LKA,1993,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.70443985399884,Fuel Trade
+Sri Lanka,LKA,1992,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.88468413313766,Fuel Trade
+Sri Lanka,LKA,1991,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.9801355862548,Fuel Trade
+Sri Lanka,LKA,1990,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.6302443986113,Fuel Trade
+Sri Lanka,LKA,1987,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.2616154627301,Fuel Trade
+Sri Lanka,LKA,1986,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.5827975512429,Fuel Trade
+Sri Lanka,LKA,1985,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.7712362014913,Fuel Trade
+Sri Lanka,LKA,1984,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,25.7125647084581,Fuel Trade
+Sri Lanka,LKA,1983,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.8653923711894,Fuel Trade
+Sri Lanka,LKA,1982,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,31.3556375819122,Fuel Trade
+Sri Lanka,LKA,1981,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.9821907110694,Fuel Trade
+Sri Lanka,LKA,1980,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.2901080203621,Fuel Trade
+Sri Lanka,LKA,1979,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.5497370651568,Fuel Trade
+Sri Lanka,LKA,1978,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.5377705471773,Fuel Trade
+Sri Lanka,LKA,1977,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.1158711129172,Fuel Trade
+Sri Lanka,LKA,1976,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.8780749473924,Fuel Trade
+Sri Lanka,LKA,1975,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.6907722934412,Fuel Trade
+Sri Lanka,LKA,1974,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.9575866581562,Fuel Trade
+Sri Lanka,LKA,1972,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.89241781921288,Fuel Trade
+Sri Lanka,LKA,1971,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.54528052659468,Fuel Trade
+Sri Lanka,LKA,1970,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.67635450597155,Fuel Trade
+Sri Lanka,LKA,1969,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.35503545155381,Fuel Trade
+Sri Lanka,LKA,1968,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.22831493515401,Fuel Trade
+Sri Lanka,LKA,1967,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.05776963531385,Fuel Trade
+Sri Lanka,LKA,1966,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.69211436415678,Fuel Trade
+Sri Lanka,LKA,1965,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.12876945496385,Fuel Trade
+Sri Lanka,LKA,1964,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.38412060764949,Fuel Trade
+Sri Lanka,LKA,1963,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.62630580469762,Fuel Trade
+Sri Lanka,LKA,1962,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.17452173233611,Fuel Trade
+Sri Lanka,LKA,2023,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.37760325088327,Metals Trade
+Sri Lanka,LKA,2022,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.53552149924906,Metals Trade
+Sri Lanka,LKA,2021,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.8071749630329,Metals Trade
+Sri Lanka,LKA,2020,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.63236778433896,Metals Trade
+Sri Lanka,LKA,2019,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.41732394166412,Metals Trade
+Sri Lanka,LKA,2017,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.45663389138902,Metals Trade
+Sri Lanka,LKA,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.45299230642368,Metals Trade
+Sri Lanka,LKA,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.35214021512131,Metals Trade
+Sri Lanka,LKA,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.43304611807976,Metals Trade
+Sri Lanka,LKA,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.46479374125958,Metals Trade
+Sri Lanka,LKA,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.3669742419433,Metals Trade
+Sri Lanka,LKA,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.41529611552541,Metals Trade
+Sri Lanka,LKA,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.78854079194227,Metals Trade
+Sri Lanka,LKA,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.39581357022557,Metals Trade
+Sri Lanka,LKA,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.69504946444416,Metals Trade
+Sri Lanka,LKA,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.83290810378538,Metals Trade
+Sri Lanka,LKA,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.2887418942255198,Metals Trade
+Sri Lanka,LKA,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.2887418942255198,Metals Trade
+Sri Lanka,LKA,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.2887418942255198,Metals Trade
+Sri Lanka,LKA,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.2887418942255198,Metals Trade
+Sri Lanka,LKA,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.99782973325977,Metals Trade
+Sri Lanka,LKA,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.1066726261959,Metals Trade
+Sri Lanka,LKA,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.08890250628153,Metals Trade
+Sri Lanka,LKA,1999,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.04721459676641,Metals Trade
+Sri Lanka,LKA,1994,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.09747238041775,Metals Trade
+Sri Lanka,LKA,1993,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.23283440450824,Metals Trade
+Sri Lanka,LKA,1992,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.2225811679123,Metals Trade
+Sri Lanka,LKA,1991,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.40508314849446,Metals Trade
+Sri Lanka,LKA,1990,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.49014086608613,Metals Trade
+Sri Lanka,LKA,1987,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.58098265965182,Metals Trade
+Sri Lanka,LKA,1986,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.38348017111249,Metals Trade
+Sri Lanka,LKA,1985,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.37503217391859,Metals Trade
+Sri Lanka,LKA,1984,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.19839789513688,Metals Trade
+Sri Lanka,LKA,1983,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.26464021279093,Metals Trade
+Sri Lanka,LKA,1982,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.21990859662391,Metals Trade
+Sri Lanka,LKA,1981,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.46196445513226,Metals Trade
+Sri Lanka,LKA,1980,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.56110626697831,Metals Trade
+Sri Lanka,LKA,1979,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.69333118387102,Metals Trade
+Sri Lanka,LKA,1978,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.32877070229823,Metals Trade
+Sri Lanka,LKA,1977,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.04662897950305,Metals Trade
+Sri Lanka,LKA,1976,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.49152521337754,Metals Trade
+Sri Lanka,LKA,1975,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.932328154231775,Metals Trade
+Sri Lanka,LKA,1974,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.89685015090292,Metals Trade
+Sri Lanka,LKA,1972,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.82748853748781,Metals Trade
+Sri Lanka,LKA,1971,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.81231395440584,Metals Trade
+Sri Lanka,LKA,1970,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.38110165238587,Metals Trade
+Sri Lanka,LKA,1969,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.91725801584542,Metals Trade
+Sri Lanka,LKA,1968,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.40726673154144,Metals Trade
+Sri Lanka,LKA,1967,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.26036549817919,Metals Trade
+Sri Lanka,LKA,1966,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.45575693458334,Metals Trade
+Sri Lanka,LKA,1965,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.14234028094962,Metals Trade
+Sri Lanka,LKA,1964,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.39389334877874,Metals Trade
+Sri Lanka,LKA,1963,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.73915266649331,Metals Trade
+Sri Lanka,LKA,1962,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.69856596366524,Metals Trade
+Sri Lanka,LKA,2023,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.22549312462179,Fuel Trade
+Sri Lanka,LKA,2022,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.25446590051031,Fuel Trade
+Sri Lanka,LKA,2021,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.92719188762874,Fuel Trade
+Sri Lanka,LKA,2020,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.73757863569001,Fuel Trade
+Sri Lanka,LKA,2019,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.85971752760838,Fuel Trade
+Sri Lanka,LKA,2017,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.5584319412636,Fuel Trade
+Sri Lanka,LKA,2016,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.60024589595184,Fuel Trade
+Sri Lanka,LKA,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.80834526900714,Fuel Trade
+Sri Lanka,LKA,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.6384817081413,Fuel Trade
+Sri Lanka,LKA,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.316453474817973,Fuel Trade
+Sri Lanka,LKA,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.359491962840932,Fuel Trade
+Sri Lanka,LKA,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.440288017795888,Fuel Trade
+Sri Lanka,LKA,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.15783503417986,Fuel Trade
+Sri Lanka,LKA,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0294628619921436,Fuel Trade
+Sri Lanka,LKA,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0214090522245665,Fuel Trade
+Sri Lanka,LKA,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0283395744133274,Fuel Trade
+Sri Lanka,LKA,2006,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.11625628378638,Fuel Trade
+Sri Lanka,LKA,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0082107772795449,Fuel Trade
+Sri Lanka,LKA,2004,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.150369711535244,Fuel Trade
+Sri Lanka,LKA,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0186247651649952,Fuel Trade
+Sri Lanka,LKA,2002,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.304586211573665,Fuel Trade
+Sri Lanka,LKA,2001,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.42870794782658,Fuel Trade
+Sri Lanka,LKA,2000,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.501162220025128,Fuel Trade
+Sri Lanka,LKA,1999,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.432362605125832,Fuel Trade
+Sri Lanka,LKA,1994,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.701524663801205,Fuel Trade
+Sri Lanka,LKA,1993,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.630861225835345,Fuel Trade
+Sri Lanka,LKA,1992,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.53450775402542,Fuel Trade
+Sri Lanka,LKA,1991,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.39654409956802,Fuel Trade
+Sri Lanka,LKA,1990,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.47156678440324,Fuel Trade
+Sri Lanka,LKA,1987,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,4.90218134814597,Fuel Trade
+Sri Lanka,LKA,1986,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.82203939069284,Fuel Trade
+Sri Lanka,LKA,1985,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.731428580122738,Fuel Trade
+Sri Lanka,LKA,1984,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.731428580122738,Fuel Trade
+Sri Lanka,LKA,1983,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.731428580122738,Fuel Trade
+Sri Lanka,LKA,1982,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.731428580122738,Fuel Trade
+Sri Lanka,LKA,1981,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.731428580122738,Fuel Trade
+Sri Lanka,LKA,1980,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.731428580122738,Fuel Trade
+Sri Lanka,LKA,1979,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.731428580122738,Fuel Trade
+Sri Lanka,LKA,1978,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.88361887766842,Fuel Trade
+Sri Lanka,LKA,1977,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.381990991974128,Fuel Trade
+Sri Lanka,LKA,1976,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.493992538434304,Fuel Trade
+Sri Lanka,LKA,1975,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0464978923818168,Fuel Trade
+Sri Lanka,LKA,1974,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.731428580122738,Fuel Trade
+Sri Lanka,LKA,1972,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.43572418727777,Fuel Trade
+Sri Lanka,LKA,1971,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.25516900890412,Fuel Trade
+Sri Lanka,LKA,1970,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0,Fuel Trade
+Sri Lanka,LKA,1969,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0,Fuel Trade
+Sri Lanka,LKA,1968,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0,Fuel Trade
+Sri Lanka,LKA,1967,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0,Fuel Trade
+Sri Lanka,LKA,1966,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0,Fuel Trade
+Sri Lanka,LKA,1965,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0,Fuel Trade
+Sri Lanka,LKA,1964,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0,Fuel Trade
+Sri Lanka,LKA,1963,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0,Fuel Trade
+Sri Lanka,LKA,1962,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0,Fuel Trade
+Sri Lanka,LKA,2023,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.599148181330232,Metals Trade
+Sri Lanka,LKA,2022,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.67746966890084,Metals Trade
+Sri Lanka,LKA,2021,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.681639263401587,Metals Trade
+Sri Lanka,LKA,2020,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.552811053515783,Metals Trade
+Sri Lanka,LKA,2019,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.73801712721378,Metals Trade
+Sri Lanka,LKA,2017,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.778839492862646,Metals Trade
+Sri Lanka,LKA,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.597589673351454,Metals Trade
+Sri Lanka,LKA,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.537232352990438,Metals Trade
+Sri Lanka,LKA,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.555241520911473,Metals Trade
+Sri Lanka,LKA,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.621745135398051,Metals Trade
+Sri Lanka,LKA,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.757834426205087,Metals Trade
+Sri Lanka,LKA,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.611659075040682,Metals Trade
+Sri Lanka,LKA,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.875207413596527,Metals Trade
+Sri Lanka,LKA,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.41195321485931,Metals Trade
+Sri Lanka,LKA,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.65493324221432,Metals Trade
+Sri Lanka,LKA,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.1019368588222,Metals Trade
+Sri Lanka,LKA,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.82413360827755,Metals Trade
+Sri Lanka,LKA,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.9717563301070213,Metals Trade
+Sri Lanka,LKA,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.9717563301070213,Metals Trade
+Sri Lanka,LKA,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.85516105965057,Metals Trade
+Sri Lanka,LKA,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.86793085461174,Metals Trade
+Sri Lanka,LKA,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.300083134964803,Metals Trade
+Sri Lanka,LKA,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.27752697953711,Metals Trade
+Sri Lanka,LKA,1999,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.228913616734358,Metals Trade
+Sri Lanka,LKA,1994,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.645031952639682,Metals Trade
+Sri Lanka,LKA,1993,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.75514131622867,Metals Trade
+Sri Lanka,LKA,1992,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.778973624037233,Metals Trade
+Sri Lanka,LKA,1991,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.695909400954574,Metals Trade
+Sri Lanka,LKA,1990,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.5774141996044,Metals Trade
+Sri Lanka,LKA,1987,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.14587538821208,Metals Trade
+Sri Lanka,LKA,1986,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.64061984391382,Metals Trade
+Sri Lanka,LKA,1985,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.05631455387119,Metals Trade
+Sri Lanka,LKA,1984,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.903959640975386,Metals Trade
+Sri Lanka,LKA,1983,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.80677794825652,Metals Trade
+Sri Lanka,LKA,1982,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.860280855662012,Metals Trade
+Sri Lanka,LKA,1981,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.820839179629093,Metals Trade
+Sri Lanka,LKA,1980,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.847629042511755,Metals Trade
+Sri Lanka,LKA,1979,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.92866301800711,Metals Trade
+Sri Lanka,LKA,1978,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.9717563301070213,Metals Trade
+Sri Lanka,LKA,1977,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.9717563301070213,Metals Trade
+Sri Lanka,LKA,1976,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.9717563301070213,Metals Trade
+Sri Lanka,LKA,1975,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.9717563301070213,Metals Trade
+Sri Lanka,LKA,1974,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.9717563301070213,Metals Trade
+Sri Lanka,LKA,1972,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.45771785018879,Metals Trade
+Sri Lanka,LKA,1971,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.760245176342691,Metals Trade
+Sri Lanka,LKA,1970,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.696535962170337,Metals Trade
+Sri Lanka,LKA,1969,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.674696345997381,Metals Trade
+Sri Lanka,LKA,1968,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.564739961687382,Metals Trade
+Sri Lanka,LKA,1967,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.543300825789771,Metals Trade
+Sri Lanka,LKA,1966,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.476731887304021,Metals Trade
+Sri Lanka,LKA,1965,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.376451138228045,Metals Trade
+Sri Lanka,LKA,1964,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.414946600354667,Metals Trade
+Sri Lanka,LKA,1963,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.326650629056992,Metals Trade
+Sri Lanka,LKA,1962,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.321843581548317,Metals Trade
